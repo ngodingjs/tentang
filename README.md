@@ -22,7 +22,7 @@
 11. [ES6 String Iterators](https://youtu.be/wtaiAXfp7f8)
 12. [ES6 Built-in Iterators](https://youtu.be/8_iFAIYEMHc)
 13. [ES6 Sets](https://youtu.be/UibGO_kqN70)
-14. [https://youtu.be/UibGO_kqN70](https://youtu.be/jF6H1zk7vzA)
+14. [How to install node.js on windows 11 using winget cli](https://youtu.be/jF6H1zk7vzA)
 15. [ES6 Maps](https://youtu.be/jF6H1zk7vzA)
 16. [How to create arrays in JavaScript ES6](https://youtu.be/8wG1_t0M-mk)
 17. [How do I start my Windows 11 machine](https://youtu.be/b6HCXUpUFHY)
