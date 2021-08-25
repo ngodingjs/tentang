@@ -26,7 +26,7 @@
 15. [ES6 Maps](https://youtu.be/jF6H1zk7vzA)
 16. [How to create arrays in JavaScript ES6](https://youtu.be/8wG1_t0M-mk)
 17. [How do I start my windows machine](https://youtu.be/b6HCXUpUFHY)
-18. [Object.is()](https://youtu.be/KlhuPhExAJ8)
+18. [Object.is() ES6](https://youtu.be/KlhuPhExAJ8)
 19. [3 ways to create object in JavaScript](https://youtu.be/WgTuUR7YXNg)
 20. [Windows terminal screensaver using Github CLI 🔥](https://youtu.be/ADb_r7__w8M)
 
